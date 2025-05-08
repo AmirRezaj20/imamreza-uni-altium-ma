@@ -2,3 +2,8 @@
 AltiumDesigner Download Link :
 https://soft98.ir/software/engineering/3575-%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%84%D8%AA%DB%8C%D9%88%D9%85-%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86%D8%B1.html
 
+Library Ostad Borghani :
+https://github.com/chilaboard/Altium-Library
+
+GithubDesktop Download :
+https://desktop.github.com/download/
